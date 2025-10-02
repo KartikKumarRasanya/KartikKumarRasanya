@@ -2,13 +2,13 @@
 <h3 align="center">MERN Stack | Next.js | Competitive Programming | Product Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartik7906&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KartikKumarRasanya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kartik7906&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KartikKumarRasanya&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ A comprehensive overview of the technologies I utilize across development and da
 
 ## 🏆 Projects & Competitive Programming
 
-You can view a selection of my key projects and code submissions on my main repository: **[Portfolio / Projects Link](https://github.com/Kartik7906)**
+You can view a selection of my key projects and code submissions on my main repository: **[Portfolio / Projects Link](https://github.com/KartikKumarRasanya)**
 
 ### Competitive Programming Highlights
 
@@ -82,18 +82,18 @@ You can view a selection of my key projects and code submissions on my main repo
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kartik-kumar-7774881b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.codechef.com/users/kartikrasanya7" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.leetcode.com/kartikkumar79" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/Kartik7906" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/kartik-kumar-7774881b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/kartikrasanya7" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.leetcode.com/kartikkumar79" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/KartikKumarRasanya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -101,11 +101,11 @@ You can view a selection of my key projects and code submissions on my main repo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik7906&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik7906&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik7906&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikKumarRasanya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikKumarRasanya&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikKumarRasanya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
